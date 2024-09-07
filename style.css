@@ -1,0 +1,39 @@
+i{
+    color: black;
+    padding: 10px;
+}
+#myimage{
+height: 300px;
+width: 300px;
+}
+#parent{
+    position: sticky;
+    top: 0% ;
+}
+#home{
+    margin-top: 55px;
+   background-color: wheat;
+}
+#navbar{
+
+    background-color: black;
+    border: 2px solid white;
+    z-index: 4;
+}
+#project,#pro_2{
+    z-index: -4;
+}
+
+.progress {
+    height: 10px; /* Adjust this value to lower the height */
+    background-color: white;
+  }
+  .custom-color{
+    background-color: tomato;
+  }
+
+/* * {
+    color: wheat;
+    background:linear-gradient(black 0%,rgb(0, 0, 74) 100%);
+
+} */
